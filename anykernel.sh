@@ -6,7 +6,7 @@
 properties() { '
 kernel.string=Yuki Kernel by Klozz jesus "TeamMEX" @ xda-developers
 do.devicecheck=1
-do.modules=0
+do.modules=1
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
